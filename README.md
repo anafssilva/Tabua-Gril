@@ -2,6 +2,8 @@
  O Tábua Grill é uma hamburgueria fictícia que serve como ponto de referência para o desenvolvimento de um projeto da faculdade.
  Este site é meramente ilustrativo e não representa uma empresa real.
 
+ ![image](https://github.com/anafssilva/Tabua-Gril/assets/112270451/179cfeb5-1fb9-4db1-9a05-bb22e68b300b)
+
 ## Funcionalidades
 - Página Inicial com informações da hambirgueria e local para realizar reserva.
 - História da hamburgueria e seus produtos.
