@@ -5,7 +5,7 @@
  ![image](https://github.com/anafssilva/Tabua-Gril/assets/112270451/179cfeb5-1fb9-4db1-9a05-bb22e68b300b)
 
 ## Funcionalidades
-- Página Inicial com informações da hambirgueria e local para realizar reserva.
+- Página Inicial local para realizar reserva.
 - História da hamburgueria e seus produtos.
 - Cardápio com uma lista de opções de hamburgueres disponíveis.
 - Mural para compartilhar fotos dos clientes.
@@ -20,6 +20,9 @@
 
 ## Imagens utilizadas
 Todas as imagens utilizadas no site foram retiradas da internet e foram modificadas para fins ilustrativos.
+
+## Colaboradores
+Ana Flávia, Bárbara, Cleiton, Diego
 
 ## Instalação
 Certifique-se de ter o Node.js instalado em seu sistema.
