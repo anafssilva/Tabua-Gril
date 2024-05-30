@@ -177,7 +177,7 @@ button:hover{
     padding-right: 50px;
 }
 #cardapio{
-    background-image: url(Imagens/cardapio.png);
+    background-image: url(../Imagens/cardapio.png);
     width:100%;
     background-repeat: no-repeat;
     background-position: bottom;
